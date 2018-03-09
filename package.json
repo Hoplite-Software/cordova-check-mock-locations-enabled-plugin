@@ -1,6 +1,6 @@
 {"name":"cordova-check-mock-locations-enabled-plugin",
 "version": "0.1.0",
-"description": "A plugin to detect if "Allow Mock Locations" is enabled on Android phones (forked)",
+"description": "A plugin to detect if Allow Mock Locations is enabled on Android phones (forked)",
 "homepage": "https://github.com/RashadSaleh/cordova-check-mock-locations-enabled-plugin",
 "author": "Rashad Saleh"
 }
